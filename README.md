@@ -17,9 +17,9 @@
 
 - i help people in [https://www.linuxquestions.org/questions/forumdisplay.php?forumid=29](https://www.linuxquestions.org/questions/forumdisplay.php?forumid=29)
 
-- 💬 Ask me about **rust, and luau**
+- ask me about **rust, and luau**
 
-- 📫 How to reach me **message me in discord idkimeanitsokalr**
+- **message me in discord idkimeanitsokalr**
 
 - fun fact **im 14**
 
